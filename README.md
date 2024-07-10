@@ -1,5 +1,6 @@
 # file-share-app-celebal
 **Celebal Summer Internship 2024**
+## Author - Md Sufyan Khan
 **Major Project**
 
 File sharing application using socket.IO and react at frontend
@@ -48,3 +49,5 @@ Start the server and client:
 cd ..
 npm start
 ```
+
+# Happy Coding
