@@ -11,6 +11,7 @@ const readdir = util.promisify(fs.readdir);
 const rmdir = util.promisify(fs.rmdir);
 
 // store the socket lobbys
+//mapping socketLobbies in an array..
 const socketLobbies = new Map();
 
 class SocketLobby {
